@@ -4,11 +4,11 @@
 
 I’m a second-year Computer Engineering student with a deep passion for technology and software development. Currently, I am focused on enhancing my skills in web development through **[The Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)** by Angela Yu. I’m eager to apply my learning to real-world projects and contribute to the tech community.
 
-## What I'm Learning
+## What I'm Learning Right Now
 
-- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap
-- **Backend**: Node.js, Express.js
-- **Databases**: MongoDB, SQL
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Backend**: Node.js, React.js
+- **Databases**: SQL
 - **Version Control**: Git & GitHub
 - **Tools**: VS Code, Chrome DevTools
 
